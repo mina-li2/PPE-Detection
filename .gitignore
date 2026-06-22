@@ -1,0 +1,62 @@
+# ========================
+# SECURITY - Never commit these
+# ========================
+.env
+*.env
+.env.local
+.env.production
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.so
+venv/
+env/
+.venv/
+
+# ========================
+# Model weights (too large for GitHub, use Git LFS or share separately)
+# ========================
+models/*.pt
+models/*.pth
+models/*.onnx
+*.weights
+
+# ========================
+# Test videos & result videos (large files)
+# ========================
+test/*.mp4
+test/*.avi
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# IDE files
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+
+yolov5/
