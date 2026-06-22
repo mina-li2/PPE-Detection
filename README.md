@@ -57,7 +57,6 @@ Edit `.env` and fill in your values:
 
 ### 5. Add model weights
 The trained model file (`models/best.pt`) is not included in this repo due to file size.
-- Download from: *(add your Google Drive / HuggingFace link here)*
 - Place it at: `models/best.pt`
 
 ### 6. Run the app
