@@ -26,6 +26,10 @@ PPE-Detection/
 │   └── best.pt             # YOLOv5 trained model weights (not included — see below)
 └── yolov5/                 # YOLOv5 submodule
 ```
+## Screenshots:
+<img width="1896" height="853" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/3a8a4a49-629f-4035-ac18-18f7fc82bb74" />
+
+<img width="1920" height="861" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/4544e3de-6cec-43ea-a42c-3e3ac0907bcf" />
 
 ## Setup Instructions
 
